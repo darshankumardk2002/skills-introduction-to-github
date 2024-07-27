@@ -11,3 +11,9 @@
 
 ![Image Of Sachin Tendulakr](https://github.com/darshankumardk2002/skills-introduction-to-github/blob/Darshan/OIP.jpeg)
 
+```
+$ git init
+Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
+```
+
+
