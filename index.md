@@ -1,6 +1,6 @@
 # DATA
 ## DETAILS
 ### Name : Sachin Tendulkar
-#### Role : FORWARD
+#### Role : Batsman
 #### Team : Mumbai Indians
 
