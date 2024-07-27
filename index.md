@@ -17,5 +17,5 @@ Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.gi
 ```
 - [x] Played Test Match
 - [x] Is an Indian
-- [ ] Scored 100 of 100's
+- [ ] Scored 150 of 100's
 
